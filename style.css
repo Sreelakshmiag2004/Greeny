@@ -1,0 +1,103 @@
+*{
+    margin:0;
+    padding:0;
+}
+.header{
+}
+nav{
+    background-color: aquamarine;
+    color:black;
+    padding:15px;
+    margin:10px;
+    margin-bottom:0;
+    border-color:black;
+    border-style:solid;
+    border-width:2px;
+
+}
+li{
+    color:black;
+    cursor:pointer;
+
+}
+li,h1,ul{
+    display:inline;
+}
+li:hover{
+    color:white;
+}
+ul{
+    margin-left :60%;
+}
+.intro{
+    background-color:aquamarine;
+    color:black;
+    height:300px;
+    padding-left:100px;
+    padding-top:50px;
+    padding-right:200px;
+    padding-bottom:50px;
+    margin-left:10px;
+    margin-right:10px;
+}
+.box{
+    display:inline;
+    background-color: black;
+    color:white;
+    height:10px;
+    padding:10px;
+    margin:10px;
+}
+.img{
+    float:right;
+}
+.about{
+    text-align:center;
+    padding:25px;
+}
+.container{
+    border-color:black;
+    border-width:2px;
+    border-style:solid;
+    display:inline-block;
+    width:220px;
+    margin:10px;
+    padding:15px;
+}
+.products{
+    text-align:center;
+    background-color:aquamarine;
+    margin:10px;
+
+}
+.p{
+    display:inline-block;
+    padding:25px;
+    margin:15px;
+}
+
+.BestSeller{
+    text-align:center;
+}
+input{
+    width:60%;
+    padding:10px;
+}
+.search{
+    margin:0px;
+    text-align:center;
+}
+.review{
+    margin:5px;
+    background-color:aquamarine;
+    height:300px;
+    padding:50px;
+    text-align:left;
+
+}
+.contact{
+    background-color:aquamarine;
+    margin:5px;
+    padding:50px;
+    margin-top:25px;
+}
